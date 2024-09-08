@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<br lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://kit.fontawesome.com/4144d41e8b.js" crossorigin="anonymous"></script>
+    <style>
+
+
+        body{
+            background-color:white;
+        }
+
+        h1{
+            -webkit-text-stroke-color: black;
+            -webkit-text-stroke-width: 1px;
+            color: black;
+            font-family: fantasy;
+            font-size: 300%;
+            font-weight:lighter;
+            text-align:center;
+        }
+
+        h2{
+            color: black;
+            text-align:center;
+            font-family:sans-serif;
+        }
+
+        h3{
+            color:black;
+            position: absolute; left: 45em;
+        }
+           
+
+        p{
+            color: black;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        
+        .drop{
+            color: black;
+            font-size: 300%;
+            color:red;
+        }
+
+        img{
+            position:absolute; width: 750px; height: 300px;
+            
+        }
+
+        a{
+            color:black;
+            position:absolute; left: 800px;
+            border-style:solid;
+            border-width: 1px;
+            border-color:black;
+            
+
+        }
+
+        footer{
+            color: black;
+            text-align: center;
+        }
+
+        .paginainicial{
+            position: absolute;
+            left: 1px;
+            
+        }
+
+        ul{
+            color: black;
+        }
+
+        ol{
+            color: black;
+        }
+        
+        .sobrenos{
+            position: absolute;
+            left: 500px;
+        }
+
+        .log{
+            position:absolute; 
+            left: 1600px;
+        }
+
+        .fa-user{
+            position: absolute;
+            font-size: 1.35em;
+            left: 1660px;
+
+        }
+
+    </style>
+</head>
+    <section>
+    <div class="paginainicial"><button>Paginá inicial</button></div>
+    <div class="sobrenos"><button>Sobre nós</button></div>
+    <div class="log"><button>Entrar</button></div>
+    <i class="fa-solid fa-user"></i>
+    </section>
+
+    <h1>Gestão Comercial</h1> 
+    <h2>Como diminuir o turnover das empresas</h2>
+    <p><span class="drop">H</span> oje em dia contratar um bom caloborador está sendo uma tarefa cada dia mais dificil, o mercado de trabalho encontra se cada dia mais defasado de bons profissionais,
+        e o motivo disso você pode conferir aqui comigo neste blog. 
+        <p>Uma das principais causas desse problema está na <u>gestão de pessoas.</u></p>
+    </p>
+    <ul>
+        <li>Falta de comunicação</li>
+        <li>Liberdade de expressão</li>
+        <li>Acumulo de funções</li>   
+    </ul>
+
+    <p>São esses alguns dos motivos que fazem os colaboradores se desligarem da empresa, todos nós sabemos que a rotina de trabalho é muito desgastante, dando inicio desde o memento que saimos de casa. Onibus, metros lotados, transito tudo isso faz com que as pessoas tenham que enfrentar diversas dificuldades até chegar ao seu local de trabalho o que acaba muitas vezes fazendo com que o funcionario já chegue até a empresa desmotivado, e aonde entra um bom gestor nessas situações ?!
+    </p>
+
+    <ol>
+        <li>Utilizando a comunicação assertiva</li>
+        <li>Melhorando a distribuição de tarefas</li>
+        <li>Buscando um maior engajamento com o time</li>
+    </ol>
+
+    <p>São algumas das formas de motivar o funcionario e fazer com que ele entenda que você estará ali dando suporte necessário a eles.</p>
+
+    <img src="https://st.depositphotos.com/1594308/3526/i/600/depositphotos_35269833-stock-photo-interacting-at-meeting.jpg">
+    <br><a href="https://gptw.com.br/conteudo/artigos/melhores-empresas-para-trabalhar-em-2023/">As 150 melhores empresas para se trabalhar</a></br>
+    <br><a href="https://blog.solides.com.br/melhores-empresas-para-se-trabalhar/">O que as melhores empresas para se trabalhar tem em comum</a></br>
+    <br><a href="https://jrmcoaching.com.br/blog/a-importancia-de-um-ambiente-de-trabalho-saudavel/?utm_source=gg_ads&utm_campaign=TRAFEGO_DST_JRM_FRIO_SEARCH-DIN&utm_medium=01_DIN_25-55&utm_content=jrm_search&gad_source=1&gclid=Cj0KCQjwhtWvBhD9ARIsAOP0GogQMt_44BoWipQoFnpQCOuzhY594Xx93oGe5I6eJq5IrLv0EqDTGIMaAkalEALw_wcB">A importância de um ambiente de trabalho saudável</a>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br> 
+    <br>
+    <br>
+    <br>
+    </br>
+    <br>
+    <br> 
+    <br>
+    <br>
+    <h2>Vamos falar um pouco mais sobre</h2>
+    
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Comentários</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .form-group input[type="text"],
+        .form-group textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .form-group input[type="checkbox"] {
+            margin-right: 10px;
+        }
+        .form-group button {
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        .form-group button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Deixe seu Comentário</h1>
+        <form action="/enviar-comentario" method="post">
+            <div class="form-group">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" placeholder="Seu nome (opcional)">
+            </div>
+            <div class="form-group">
+                <label for="comentario">Comentário:</label>
+                <textarea id="comentario" name="comentario" rows="4" placeholder="Digite seu comentário aqui" required></textarea>
+            </div>
+            <div class="form-group">
+                <input type="checkbox" id="anonimo" name="anonimo">
+                <label for="anonimo">Comentar anonimamente</label>
+            </div>
+            <div class="form-group">
+                <button type="submit">Enviar Comentário</button>
+            </div>
+        </form>
+    </div>
+</body>
+<footer>feito por dev_velt</footer>
+</html>
